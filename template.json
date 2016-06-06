@@ -1,0 +1,8 @@
+{
+  "name": "*Empty Repo",
+  "description": "Empty template that disables Jekyll builds, for use with any static site generator.",
+  "author": "Chad Person <chad@bowtie.io>",
+  "version": "0.0.2",
+  "image_url": null,
+  "docs_link": "/docs/#projects"
+}
